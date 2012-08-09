@@ -5,6 +5,7 @@
 
 # Compiled Dynamic libraries
 *.so
+*.mexa64
 
 # Compiled Static libraries
 *.lai
